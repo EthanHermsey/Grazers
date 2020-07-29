@@ -1,5 +1,5 @@
 # Grazers
-Animated grazing creatures
+Animated grazing creatures using inverse kinematic on a p5.js canvas.
 
 A look into the life of these grazing creatures.
 The main food source of these creatures are the flowers of a specific plant. Although this provides them with all the nutrients that they need, it also causes them to 
